@@ -1,16 +1,16 @@
-### Hi there 👋
+### Well hello there 👋 ...
+Let me tell you a bit about me:
 
-<!--
-**dschemp/dschemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖊️ Programming mainly in C#
 
-Here are some ideas to get you started:
+- 📱 some Mobile Application Development with Xamarin but Xcode for iOS aswell
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ __Interests:__ SysOps 🖥️, APIs 📠, Video Games 🎮, Learning new (programming) languages 📖 like Rust, Go or Finnish, 🖌 Design
+
+- 🎮 __Favorite Video Games:__ Metal Gear Solid 5: TPP, Overwatch, Civilization 5/6 (but not good at any of them ;D)
+
+- 🖥️ __SysOps:__ Ansible, nginx, Docker (Compose), Ubuntu Server, Mobile Computing, Cloud Server
+
+- ❤ Absolutely love LaTeX (or rather XeLaTeX)
+
+- 💙 Love/Hate Relationship with ArchLinux (and Fedora Linux)
